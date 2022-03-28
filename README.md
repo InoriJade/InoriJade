@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 Studying at UMass Amherst majoring Bachelor of Computer Science
 - 💞️ I’m looking to collaborate on Unity Projects
-- 📫 How to reach me lilyedmonds@umass.edu
+- 📫 How to reach me wedmonds@umass.edu
 
 <!---
 InoriJade/InoriJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
